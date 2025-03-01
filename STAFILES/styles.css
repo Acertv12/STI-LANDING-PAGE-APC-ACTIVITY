@@ -48,6 +48,12 @@ section {
 }
 .eventname {
     font-size: 50px;
+.dance {
+    height: 50%;
+    width: 60%;
+}
+.eventname {
+    font-size: 50px;
 
 }
 /* Styling for individual course, event, alumnus, and blog-post elements */
